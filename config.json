@@ -1,0 +1,12 @@
+{
+    "processes": [
+        {
+            "name": "exe",
+            "executable_path": "./exe/node.exe",
+            "arguments": [],
+            "working_directory": "./exe",
+            "restart_delay": 5,
+            "max_restarts": 3
+        }
+    ]
+}
